@@ -2,8 +2,8 @@
 
 **Tool phát triển và chia sẻ miễn phí bởi Duytan**
 
-<a href="https://www.facebook.com/duytan.hh"></a>
-<a href="https://t.me/duytan2003"></a>
+<a href="https://www.facebook.com/duytan.hh">Facebook</a>
+<a href="https://t.me/duytan2003">Telegram</a>
 
 
 ## 🛠️ Hướng dẫn cài đặt
