@@ -5,6 +5,8 @@
 <a href="https://www.facebook.com/duytan.hh">Facebook</a>
 <a href="https://t.me/duytan2003">Telegram</a>
 
+![Output](/bg.png)
+
 
 ## 🛠️ Hướng dẫn cài đặt
 
