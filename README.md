@@ -2,8 +2,8 @@
 
 **Tool phát triển và chia sẻ miễn phí bởi Duytan**
 
-<a href="https://www.facebook.com/duytan.hh"><img src="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Facebook_Logo_%282019%29.png" alt="Facebook"></a>
-<a href="https://t.me/duytan2003"><img src="https://www.toyotabienhoa.edu.vn/telegram-logo-png-odpszn3h/" alt="Telegram"></a>
+<a href="https://www.facebook.com/duytan.hh"></a>
+<a href="https://t.me/duytan2003"></a>
 
 
 ## 🛠️ Hướng dẫn cài đặt
