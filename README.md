@@ -1,5 +1,9 @@
 # Tool Auto Tomarket NodeJS 
 
+<p align="center">
+<a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/download-nodejs-yellow"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/download-visualstudio-0066CC"></a>
+</p>
 </p>
 <p align="center">
 <a href="https://twitter.com/12dtan" target="_blank"><img src="https://img.shields.io/twitter/follow/12dtan.svg?style=social&label=Follow"></a>
